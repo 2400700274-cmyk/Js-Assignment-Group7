@@ -8,42 +8,42 @@ const products = [
     name: "Laptop",
     price: 2500000,
     category: "Electronics",
-    image: "images/laptop.jpg"
+    image: "images/laptops.jpeg"
   },
   {
     id: 2,
     name: "Smart Phone",
     price: 1200000,
     category: "Electronics",
-    image: "images/phone.jpg"
+    image: "images/phones.jpeg"
   },
   {
     id: 3,
     name: "Headphones",
     price: 180000,
     category: "Electronics",
-    image: "images/headphones.jpg"
+    image: "images/headphones.jpeg"
   },
   {
     id: 4,
     name: "Sneakers",
     price: 220000,
     category: "Fashion",
-    image: "images/shoes.jpg"
+    image: "images/shoes.jpeg"
   },
   {
     id: 5,
     name: "T-Shirt",
     price: 75000,
     category: "Fashion",
-    image: "images/tshirt.jpg"
+    image: "images/tshirts.jpeg"
   },
   {
     id: 6,
     name: "JavaScript Book",
     price: 95000,
     category: "Books",
-    image: "images/book.jpg"
+    image: "images/books.jpeg"
   }
 ];
 
